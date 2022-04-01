@@ -1,5 +1,5 @@
 # Custom Mesa for PS4 running Ubuntu and Ubuntu-based distros
-This custom-built Mesa fixes image distortion on many games like Cyberpunk running on PS4 (PlayStation 4) through WIne, especially on the latest versions of Ubuntu.
+This custom-built Mesa fixes image distortion on many games like Cyberpunk running on PS4 (PlayStation 4) through Wine, especially on the latest versions of Ubuntu.
 
 ## Using the custom Mesa script on PS4 Ubuntu
 1. Open terminal and run `sudo apt install libz3-4`
