@@ -8,4 +8,8 @@ This custom-built Mesa fixes image distortion on many games like Cyberpunk runni
 4. Open terminal and run `source mesa.sh` and make sure you change the path of the mesa.sh according to your location. 
 5. Run wine or any other launcher command on the same terminal to launch your game.
 
+## Notes
+1. The version numbers don't mean an incremental upgrade. So, v2 might not have a more later version of Mesa than v1. In most cases, it would be the opposite.
+2. Read the description of the release to find the purpose. Mostly, they are to run specific games or applications.
+
 If you need a more comprehensive tutorial or a video tutorial checkout my [article](https://ps4linux.com/image-distortion-cyberpunk-ps4-linux-fix/).
